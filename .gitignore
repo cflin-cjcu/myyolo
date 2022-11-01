@@ -5,3 +5,4 @@ weights
 data/voc.data
 data/voc.names
 abcd/
+test/
